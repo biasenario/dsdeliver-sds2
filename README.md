@@ -2,6 +2,7 @@
 # DS- DEVELIVER
 
 Projeto  no netlify  > https://sds2biasenario.netlify.app/
+![Capturar](https://user-images.githubusercontent.com/50750452/104138670-6b8b1e80-5384-11eb-9cc5-dcb61b1f7455.JPG)
 
 
 # Sobre o Projeto 
