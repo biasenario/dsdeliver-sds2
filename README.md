@@ -1,6 +1,8 @@
 
 # DS- DEVELIVER
 
+Projeto  no netlify  > https://sds2biasenario.netlify.app/
+
 
 # Sobre o Projeto 
 
